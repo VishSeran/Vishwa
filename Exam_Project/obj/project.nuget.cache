@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "f6zvbssXSDhTtLKdJX3quV/WSquDLuiC9dI8wBknkLGO66FoDljpXIMzq9vJcxs6VhqwkCHdzzRnFeEaq5Ys/w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Vish\\Documents\\My Uni Lipe\\Engineering\\3rd Semester\\GUI Programming\\Exam_Project\\Exam_Project\\Exam_Project.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vish\\.nuget\\packages\\communitytoolkit.mvvm\\8.1.0\\communitytoolkit.mvvm.8.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
